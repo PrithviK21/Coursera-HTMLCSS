@@ -1,0 +1,32 @@
+.nav-item {
+    text-align: center;
+}
+.navbar-brand {
+    font-size: 2em;
+}
+#menu-heading {
+    margin: 15px 0;
+}
+
+#main-bg {
+    background-color: beige ;
+}
+
+#text {
+    height: 1000px;
+}
+div > div {
+    margin-bottom: 15px;
+}
+.text-tile {
+    height: 1000px;
+    background-color: aliceblue;
+    padding: 10px;
+    position: relative;
+}
+
+.top {
+    position: absolute;
+    bottom: 0;
+    margin: 20px auto;
+}
